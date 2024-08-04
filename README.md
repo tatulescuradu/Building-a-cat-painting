@@ -20,6 +20,3 @@ The project creates a stylized representation of a cat's head, using various HTM
 
 This project is inspired by the lessons available on [freecodecamp.org](https://www.freecodecamp.org).
 
-## Author
-
-Project created by a freecodecamp user.
